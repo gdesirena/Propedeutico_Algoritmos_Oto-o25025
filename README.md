@@ -1,3 +1,4 @@
+HOLA
 # Propedeutico de implementación de algoritmos para la Maestría en Ciencia de Datos Otoño 2025
 
 # ¡HOLA A TODOS! 
